@@ -13,13 +13,13 @@ Automated installer and updater script for the **Google Antigravity Desktop Appl
 To download, install, and configure Google Antigravity in a single command:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/GregoryBiter/antigraviti-setup/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/GregoryBiter/antigravity-setup/main/install.sh | bash
 ```
 
 To install a specific version or a custom archive URL:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/GregoryBiter/antigraviti-setup/main/install.sh | bash -s -- "https://storage.googleapis.com/antigravity-public/antigravity-hub/2.26.0-6546645232517120/linux-x64/Antigravity.tar.gz"
+curl -sSL https://raw.githubusercontent.com/GregoryBiter/antigravity-setup/main/install.sh | bash -s -- "https://storage.googleapis.com/antigravity-public/antigravity-hub/2.26.0-6546645232517120/linux-x64/Antigravity.tar.gz"
 ```
 
 ---
@@ -40,8 +40,8 @@ curl -sSL https://raw.githubusercontent.com/GregoryBiter/antigraviti-setup/main/
 ### 💻 Local Usage
 
 ```bash
-git clone https://github.com/GregoryBiter/antigraviti-setup.git
-cd antigraviti-setup
+git clone https://github.com/GregoryBiter/antigravity-setup.git
+cd antigravity-setup
 chmod +x install.sh
 ./install.sh
 ```
