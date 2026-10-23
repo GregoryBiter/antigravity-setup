@@ -49,4 +49,4 @@ chmod +x install.sh
 ---
 
 ## License
-MIT
+GNU General Public License v3.0 (GPL-3.0) — see [LICENSE](LICENSE) for details.
